@@ -1,0 +1,8 @@
+﻿  DirectXRenderer.cpp
+C:\Users\Desktop\Desktop\ThesisBackup\InterfaceFinal#1\Thesis_Api\DirectXRenderer.h(7,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  IRenderer.cpp
+  Main.cpp
+C:\Users\Desktop\Desktop\ThesisBackup\InterfaceFinal#1\Thesis_Api\DirectXRenderer.h(7,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  OpenGLRenderer.cpp
+C:\Users\Desktop\Desktop\ThesisBackup\InterfaceFinal#1\Thesis_Api\OpenGLRenderer.cpp(4,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Generating Code...
