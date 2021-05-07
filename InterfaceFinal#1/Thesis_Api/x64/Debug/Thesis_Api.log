@@ -1,0 +1,6 @@
+﻿  OpenGLRenderer.cpp
+  Main.cpp
+  IRenderer.cpp
+  DirectXRenderer.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'glew32.libkernel32.lib'
